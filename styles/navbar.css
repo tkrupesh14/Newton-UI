@@ -1,0 +1,34 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: var(--body-background-color);
+    color: var(--text-color-black);
+    box-shadow: var(--box-shadow-down);
+}
+.small-text{
+    font-size: 0.6rem;
+    font-weight: 500;
+    color: var(--text-color-black);
+}
+.nav{
+    text-decoration: none;
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--text-color-black);
+}
+.nav-logo{
+    color: var(--primary-color);
+}
+.right-nav-active {
+    color: var(--primary-color);
+  }
+  
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 2rem;
+}
