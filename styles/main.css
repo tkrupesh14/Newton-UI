@@ -1,5 +1,6 @@
 @import url("https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css");
 @import url('./navbar.css');
+@import url('./button.css');
 *{
     margin: 0;
     padding: 0;
